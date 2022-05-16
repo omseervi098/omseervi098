@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Html, CSS, Bootstrap, JS**
+- 💬 Ask me about **Html, CSS, Bootstrap, JS,C++,C**
 
 - 📫 How to reach me **omseervi098@gmail.com**
 
