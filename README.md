@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omprakash Chodhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Staff Managament Project](https://github.com/omseervi098/WE)
+- 🔭 I’m currently working on [Staff Managament Project](https://github.com/omseervi098/Synergy)
 
 - 🌱 I’m currently learning **React**
 
