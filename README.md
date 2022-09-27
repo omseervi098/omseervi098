@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **omseervi098@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N5E_pdf4PUUlSY5ahYcWQI7OjpxK_IdC/view?usp=sharing](https://drive.google.com/file/d/1N5E_pdf4PUUlSY5ahYcWQI7OjpxK_IdC/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ompraka73085434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ompraka73085434" height="30" width="40" /></a>
