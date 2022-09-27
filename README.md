@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omprakash Choudhary</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/ompraka73085434" target="blank"><img src="https://img.shields.io/twitter/follow/ompraka73085434?logo=twitter&style=for-the-badge" alt="ompraka73085434" /></a> </p>
-
 - 💬 Ask me about **Nodejs,Js,C++,C,Express**
 
 - 📫 How to reach me **omseervi098@gmail.com**
