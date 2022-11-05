@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omprakash Choudhary</h1>
 <h3 align="center">A Fullstack developer and Competitive Programmer</h3>
 
-- 💬 Ask me about **Nodejs,Js,C++,C,Express**
-
+- 💬 Ask me about **Nodejs,Js,Data Structure and Algorithm**
+- See my recent projects on <a href="https://omseervi098.vercel.app/" target="blank">omseervi098.vercel.app</a>
 - 📫 How to reach me **omseervi098@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
