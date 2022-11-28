@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omseervi098&label=Profile%20views&color=0e75b6&style=flat" alt="omseervi098" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://omseervi098.vercel.app](https://omseervi098.vercel.app)
+- 👨‍💻 All of my projects are available at [https://omprakash.me](https://omprakash.me)
 
 - 💬 Ask me about **Nodejs,Js,C++,C,Express**
 
