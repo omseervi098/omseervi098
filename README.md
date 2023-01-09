@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-- 👨‍💻 Profolio Link: [omprakash.me](https://omprakash.me)
+- 👨‍💻 Portfolio Link: [omprakash.me](https://omprakash.me)
 
 - 👯 I’m looking to collaborate on MERN Stack Project
 
