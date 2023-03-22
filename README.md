@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omprakash Choudhary</h1>
 <h3 align="center">A 🚀 passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omseervi098&label=Profile%20views&color=0e75b6&style=flat" alt="omseervi098" /> </p>
-
 ## 💫 About Me:
 
 - 👨‍💻 Portfolio Link: [omprakash.me](https://omprakash.me)
