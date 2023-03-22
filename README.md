@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omseervi098@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1uivVK8JwZoDT5WVtNFCj5t7Qs2K7z3Fw)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1psMAiafr81aOAxvApNSYmO0n_YwJW9Rj/view?usp=share_link)
 
 ## 🌐 Social & Coding Profiles 
 <p align="left">
