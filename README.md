@@ -1,26 +1,20 @@
 <h1 align="center">Hi 👋, I'm Omprakash Choudhary</h1>
-<h3 align="center">A 🚀 passionate fullstack developer from India</h3>
+<h2 align="center">A 🚀 passionate Software developer from India</h2>
+<h3 align="center"><a href="https://omprakash.me">👨‍💻 Portfolio</a></h3>
 
 ## 💫 About Me:
 
-- 👨‍💻 Portfolio Link: [omprakash.me](https://omprakash.me)
-
-- 👯 I’m looking to collaborate on MERN Stack Project
-
-- 💬 Ask me about DSA & ReactJS
-
-- 📫 How to reach me **omseervi098@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16XWXY5KzdFIYVi88EJmVeRUsTcjFBz-O/view?usp=sharing)
+- 👯  I’m looking to collaborate on Full Stack(MERN/Flask) Projects.
+- 💬 Ask me about C++, DSA & Development Frameworks.
+- 📫 How to reach me **omseervi098@gmail.com**.
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1bfaToixca6kIHCsZ7ORv1E_qc9NYc7pS/view?usp=sharing)].
 
 ## 🌐 Social & Coding Profiles 
 <p align="left">
 <a href="https://www.instagram.com/omseervi_098/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" alt="omseervi_098" height="35" width="35" /></a>
-<a href="https://twitter.com/ompraka73085434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ompraka73085434" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omprakash-choudhary-46b996165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omprakash-choudhary-46b996165" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/omseervi098" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="omseervi098" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/int_cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="int_cpp" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/omseervi098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omseervi098" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/int_cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="int_cpp" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/omseervi_098/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="omseervi_098/profile" height="30" width="40" /></a>
 </p>
