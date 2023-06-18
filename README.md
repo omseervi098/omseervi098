@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omprakash Choudhary</h1>
 <h2 align="center">A 🚀 passionate Software developer from India</h2>
-<h3 align="center"><a href="https://omprakash.me" target="_blank" >👨‍💻 Portfolio</a></h3>
+<h3 align="center"><a href="https://omprakash.me" target="blank" >👨‍💻 Portfolio</a></h3>
 
 ## 💫 About Me:
 
