@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omprakash Choudhary</h1>
 <h2 align="center">A 🚀 passionate Software developer from India</h2>
-<h3 align="center"><a href="https://omprakash.me" target="blank" >👨‍💻 [www.omprakash.me] </a></h3>
+<h3 align="center"><a href="https://omseervi098.vercel.app" target="blank" >👨‍💻 [omseervi098.vercel.app] </a></h3>
 
 ## 💫 About Me:
 
