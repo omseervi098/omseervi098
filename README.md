@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omprakash Choudhary</h1>
 <h2 align="center">A 🚀 passionate Software developer from India</h2>
-<h3 align="center"><a href="https://omseervi098.vercel.app" target="blank" >👨‍💻 [omseervi098.vercel.app] </a></h3>
+<h3 align="center"><a href="https://omprakashc.vercel.app" target="blank" >👨‍💻 [omprakashc.vercel.app] </a></h3>
 
 ## 💫 About Me:
 
 - 👯  I’m looking to collaborate on Full Stack(MERN/Flask) Projects.
 - 💬 Ask me about C++, DSA & Development Frameworks.
 - 📫 How to reach me **omseervi098@gmail.com**.
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1igPR41wgEgYqfXvISuehhvqo9wWVdWza/view?usp=drive_link)].
 
 ## 🌐 Social & Coding Profiles 
 <p align="left">
