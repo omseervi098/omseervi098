@@ -5,7 +5,7 @@
 
 - 👯  I’m looking to collaborate on Full Stack(MERN/Flask) Projects.
 - 💬 Ask me about C++, DSA & Development Frameworks.
-- 📫 How to reach me **omseervi098@gmail.com**.
+- 📫 How to reach me **omprakash.work96@gmail.com**.
 
 ## 🌐 Social & Coding Profiles 
 <p align="left">
