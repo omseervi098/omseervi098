@@ -21,14 +21,10 @@
 
 * **Key Features:** AI Image Segmentation, Real-time texture swapping, Interior visualization.
 
-## 🌐 Social & Coding Profiles 
-<p align="left">
+## 🌐 Social & Coding Profiles
 
-<a href="https://linkedin.com/in/omprakash-choudhary-46b996165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omprakash-choudhary-46b996165" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/omseervi098" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="omseervi098" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omseervi098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="int_cpp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omseervi098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="int_cpp" height="30" width="40" /></a>
-</p>
+
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-link) &nbsp;&nbsp; [![codechef](https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](your-link) &nbsp;&nbsp; [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](your-link) &nbsp;&nbsp; [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-link) 
 
 ## 💻 Tech Stack
 
@@ -40,3 +36,4 @@
 
 ### Cloud, Database & AI
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+
