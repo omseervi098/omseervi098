@@ -22,10 +22,10 @@
 
 * **Key Features:** AI Image Segmentation, Real-time texture swapping, Interior visualization.
   
-### 💻 [Linux App Hub](https://github.com/omseervi098/linux-app-hub)
+### 💻 [Linux App Manager](https://github.com/omseervi098/linux-app-manager)
 **Terminal-Based App Manager**
 
-> A CLI-based Linux application manager unifying application installation history and storage tracking across APT, Snap, Flatpak, and AppImage using a standardized Pydantic-based interface, reducing code duplication by 40%.
+> A CLI-based Linux application manager unifying application installation history and storage tracking across APT, Snap, Flatpak, and AppImage using a standardized Pydantic-based interface.
 
 
 ## 🌐 Social & Coding Profiles
